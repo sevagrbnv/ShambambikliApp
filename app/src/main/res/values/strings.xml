@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ShambambukliApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cellular_filling">Клеточное наполнение</string>
+    <string name="create">СОТВОРИТЬ</string>
+
+    <string name="dead_icon">💀</string>
+    <string name="Dead">Мёртвая</string>
+    <string name="dead_comment">bли прикидывается</string>
+
+    <string name="life_icon">💥</string>
+    <string name="life">Живая</string>
+    <string name="life_comment">и шевелится!</string>
+
+    <string name="being_icon">🐣</string>
+    <string name="being">Жизнь</string>
+    <string name="being_comment">Ку-ку!</string>
+
+</resources>
